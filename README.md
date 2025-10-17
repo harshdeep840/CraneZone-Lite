@@ -1,2 +1,3 @@
 # CraneZone-Lite
-Here’s a concise version perfect for the GitHub repo creation box (under 150 characters):  > AI-powered crane safety system using computer vision to detect hooks, loads & personnel in real time.
+CraneZone-Lite is an AI-powered safety monitoring system designed to enhance crane operation safety in construction and industrial environments.
+It uses computer vision and deep learning (YOLOv8, Faster R-CNN, EfficientDet) to detect, classify, and track hooks, loads, and personnel in real time — ensuring safe crane operations by maintaining a dynamic “safe envelope” around active zones.
